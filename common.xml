@@ -3,6 +3,7 @@
   <project name="Spookcity/android_device_samsung_smdk3470-common" path="device/samsung/smdk3470-common" revision="P" remote="github" />
   <project name="Spookcity/android_hardware_samsung_slsi_exynos3470" path="hardware/samsung_slsi-cm/exynos3470" revision="P" remote="github" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" revision="lineage-16.0" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" revision="lineage-16.0" remote="github" />
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" revision="lineage-16.0" /><!-- for FlipFlap -->
   <project name="Spookcity/android_hardware_samsung" path="hardware/samsung" revision="P"/>
